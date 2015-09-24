@@ -1,4 +1,3 @@
-I created a second branch called 2nd-Branch, and will see what happens.
-If this is successful, I will change this file and say what happened.
+I created a second branch called 2nd-Branch.
 
-UPDATE:  I don't know if this will work, and am a little nervous to merge the branch to the master.  If it doesn't work, I'll have to start over again.
+This was successful, and I was able to merge the changes 2nd-Branch with the Master.
